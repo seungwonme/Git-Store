@@ -1,0 +1,8 @@
+# Mac OS
+.DS_Store
+
+# Vscode
+.vscode
+
+# Frontend
+node_modules
