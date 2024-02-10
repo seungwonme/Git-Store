@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        작성 예시 : "[Bugfix] 로그인 버그 수정"
+        작성 예시 : "로그인 버그 수정"
   - type: textarea
     id: bug-description
     attributes:

@@ -1,13 +1,13 @@
 name: "코드 수정"
 description: 코드 수정 Issue 작성 양식입니다.
-labels: ["modify"]
+labels: ["enhancement"]
 body:
   - type: markdown
     attributes:
       value: |
-        작성 예시 : "[Modify] 함수 반환 값 수정"
+        작성 예시 : "함수 반환 값 수정"
   - type: textarea
-    id: modify-description
+    id: enhancement-description
     attributes:
       label: 작업 설명
       description: 어떤 코드를 수정하시는 건지 적어주세요.
